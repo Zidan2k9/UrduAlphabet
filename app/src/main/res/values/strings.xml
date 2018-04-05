@@ -1,3 +1,80 @@
 <resources>
     <string name="app_name">UrduAlphabet</string>
+
+    <!--//original letters-->
+
+    <string name="ا">Alif</string>
+    <string name="ب">Be</string>
+    <string name="پ">Pe</string>
+    <string name="ت">Te_one</string>
+    <string name="ٹ">Te_two</string>
+    <string name="ث">Se</string>
+    <string name="ج">Jim</string>
+    <string name="چ">Che</string>
+    <string name="ح">He</string>
+    <string name="خ">Khe</string>
+    <string name="د">Dal_one</string>
+    <string name="ڈ">Dal_two</string>
+    <string name="ذ">Zal</string>
+    <string name="ر">Re_one</string>
+    <string name="ڑ">Re_two</string>
+    <string name="ز">Ze_one</string>
+    <string name="ژ">Ze_two</string>
+    <string name="س">Sin</string>
+    <string name="ش">Sheen</string>
+    <string name="ص">Suad</string>
+    <string name="ض">Zvad</string>
+    <string name="ط">Toe</string>
+    <string name="ظ">Zoe</string>
+    <string name="ع">Ain</string>
+    <string name="غ">Gain</string>
+    <string name="ف">Fe</string>
+    <string name="ق">Qaf</string>
+    <string name="ک">Kaf</string>
+    <string name="گ">Gaf</string>
+    <string name="ل">Lam</string>
+    <string name="م">Mim</string>
+    <string name="ن">Nun</string>
+    <string name="ں">Nun_Gunnaah</string>
+    <string name="و">Vau</string>
+    <string name="ہ">Choti_He</string>
+    <string name="ھ">Do_Chashmi_He</string>
+    <string name="ء">Hamzah</string>
+    <string name="ی">Choti_Ye</string>
+    <string name="ے">Bari_Ye</string>
+
+    //aspirated letters
+
+    <string name="بھ‬">Bhe</string>
+    <string name="پھ">Phe</string>
+    <string name="تھ">The_One</string>
+    <string name="ٹھ‬">The_Two</string>
+    <string name="جھ‬">Jhe</string>
+    <string name="چھ‬">Chhe</string>
+    <string name="دھ">Dhal_Three</string>
+    <string name="ڈھ‬">Dhal_Four</string>
+    <string name="رھ‬">Rhe_One</string>
+    <string name="کھ‬">Khe</string>
+    <string name="گھ‬">Ghe</string>
+    <string name="ڑھ‬">Rhe_Two</string>
+    <!--&lt;!&ndash;<string name="ڑھ‬">Re</string>&ndash;&gt; leave this out for now as its casing confusion-->
+    <string name="لھ‬">Ihe</string>
+    <string name="مھ‬">Mhe</string>
+    <string name="نھ‬">Nhe</string>
+
+    //numbers
+
+    <!--<string name="۰">Sifar</string>-->
+    <!--<string name="">Ek</string>-->
+    <!--<string name="">Do</string>-->
+    <!--<string name="">Tin</string>-->
+    <!--<string name="">Char</string>-->
+    <!--<string name="">Panch</string>-->
+    <!--<string name="">Che</string>-->
+    <!--<string name="">Sat</string>-->
+    <!--<string name="">Ath</string>-->
+    <!--<string name="">Nau</string>-->
+    <!--&lt;!&ndash;<string name="">Das<
+    /string>&ndash;&gt; cant assign numbers directly for now-->
+
 </resources>
