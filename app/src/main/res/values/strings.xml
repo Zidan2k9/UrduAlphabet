@@ -43,7 +43,7 @@
     <string name="ی">Choti_Ye</string>
     <string name="ے">Bari_Ye</string>
 
-    //aspirated letters
+    <!--aspirated letters-->
 
     <string name="بھ‬">Bhe</string>
     <string name="پھ">Phe</string>
@@ -62,19 +62,60 @@
     <string name="مھ‬">Mhe</string>
     <string name="نھ‬">Nhe</string>
 
-    //numbers
+    <!--numbers-->
+    
+    <integer name="Sifar">۰</integer>
+    <integer name="Ek">۱</integer>
+    <integer name="Do">۲</integer>
+    <integer name="Tin">۳</integer>
+    <integer name="Char">۴</integer>
+    <integer name="Panch">۵</integer>
+    <integer name="Che">۶</integer>
+    <integer name="Sat">۷</integer>
+    <integer name="Ath">۸</integer>
+    <integer name="Nau">۹</integer>
+    <integer name="Das">۱۰</integer>
+    <integer name="Gyarah">۱۱</integer>
+    <integer name="Barah">۱۲</integer>
+    <integer name="Terah">۱۳</integer>
+    <integer name="Chaudah">۱۴</integer>
+    <integer name="Panderah">۱۵</integer>
+    <integer name="Solah">۱۶</integer>
+    <integer name="Satrah">۱۷</integer>
+    <integer name="Attarah">۱۸</integer>
+    <integer name="Unnis">	۱۹</integer>
+    <integer name="Bis">۲۰</integer>
+    <integer name="Ikkis">۲۱</integer>
+    <integer name="Bais">۲۲</integer>
+    <integer name="Teis">۲۳</integer>
+    <integer name="Chaubis">۲۴</integer>
+    <integer name="Pachchis">۲۵</integer>
+    <integer name="Chabbis">۲۶</integer>
+    <integer name="Sattais">۲۷</integer>
+    <integer name="Atthais">۲۸</integer>
+    <integer name="Untis">۲۹</integer>
+    <integer name="Tis">۳۰</integer>
+    <integer name="Iktis">۳۱</integer>
+    <integer name="Battis">۳۲</integer>
+    <integer name="Taintis">۳۳</integer>
+    <integer name="Chauntis">۳۴</integer>
+    <integer name="Paintis">۳۵</integer>
+    <integer name="Chatis">۳۶</integer>
+    <integer name="Saintis">۳۷</integer>
+    <integer name="Artis">۳۸</integer>
+    <integer name="Untais">۳۹</integer>
+    <integer name="Chalis">۴۰</integer>
+    <integer name="Pachas">۵۰</integer>
+    <integer name="Sath">۶۰</integer>
+    <integer name="Sattar">۷۰</integer>
+    <integer name="Assi">۸۰</integer>
+    <integer name="Nabbe">۹۰</integer>
+    <integer name="Sau">۱۰۰</integer>
+    <integer name="Hazar">۱۰۰۰</integer>
+    <integer name="Lakh">۱۰۰۰۰۰</integer>
+    <integer name="Das_Lakh">۱۰۰۰۰۰۰</integer>
+    <integer name="Crore">۱۰۰۰۰۰۰۰</integer>
+    
 
-    <!--<string name="۰">Sifar</string>-->
-    <!--<string name="">Ek</string>-->
-    <!--<string name="">Do</string>-->
-    <!--<string name="">Tin</string>-->
-    <!--<string name="">Char</string>-->
-    <!--<string name="">Panch</string>-->
-    <!--<string name="">Che</string>-->
-    <!--<string name="">Sat</string>-->
-    <!--<string name="">Ath</string>-->
-    <!--<string name="">Nau</string>-->
-    <!--&lt;!&ndash;<string name="">Das<
-    /string>&ndash;&gt; cant assign numbers directly for now-->
 
 </resources>
