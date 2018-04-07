@@ -3,67 +3,67 @@
 
     <!--//original letters-->
 
-    <string name="ا">Alif</string>
-    <string name="ب">Be</string>
-    <string name="پ">Pe</string>
-    <string name="ت">Te_one</string>
-    <string name="ٹ">Te_two</string>
-    <string name="ث">Se</string>
-    <string name="ج">Jim</string>
-    <string name="چ">Che</string>
-    <string name="ح">He</string>
-    <string name="خ">Khe</string>
-    <string name="د">Dal_one</string>
-    <string name="ڈ">Dal_two</string>
-    <string name="ذ">Zal</string>
-    <string name="ر">Re_one</string>
-    <string name="ڑ">Re_two</string>
-    <string name="ز">Ze_one</string>
-    <string name="ژ">Ze_two</string>
-    <string name="س">Sin</string>
-    <string name="ش">Sheen</string>
-    <string name="ص">Suad</string>
-    <string name="ض">Zvad</string>
-    <string name="ط">Toe</string>
-    <string name="ظ">Zoe</string>
-    <string name="ع">Ain</string>
-    <string name="غ">Gain</string>
-    <string name="ف">Fe</string>
-    <string name="ق">Qaf</string>
-    <string name="ک">Kaf</string>
-    <string name="گ">Gaf</string>
-    <string name="ل">Lam</string>
-    <string name="م">Mim</string>
-    <string name="ن">Nun</string>
-    <string name="ں">Nun_Gunnaah</string>
-    <string name="و">Vau</string>
-    <string name="ہ">Choti_He</string>
-    <string name="ھ">Do_Chashmi_He</string>
-    <string name="ء">Hamzah</string>
-    <string name="ی">Choti_Ye</string>
-    <string name="ے">Bari_Ye</string>
+   <string name="Alif">ا</string>
+    <string name="Be">ب</string>
+    <string name="Pe">پ</string>
+    <string name="Te_one">ت</string>
+    <string name="Te_two">ٹ</string>
+    <string name="Se">ث</string>
+    <string name="Jim">ج</string>
+    <string name="Che">چ</string>
+    <string name="He">ح</string>
+    <string name="Khe">خ</string>
+    <string name="Dal_one">د</string>
+    <string name="Dal_two">ڈ</string>
+    <string name="Zal">ذ</string>
+    <string name="Re_one">ر</string>
+    <string name="Re_two">ڑ</string>
+    <string name="Ze_one">ز</string>
+    <string name="Ze_two">ژ</string>
+    <string name="Sin">س</string>
+    <string name="Sheen">ش</string>
+    <string name="Suad">ص</string>
+    <string name="Zvad">ض</string>
+    <string name="Toe">ط</string>
+    <string name="Zoe">ظ</string>
+    <string name="Ain">ع</string>
+    <string name="Gain">غ</string>
+    <string name="Fe">ف</string>
+    <string name="Qaf">ق</string>
+    <string name="Kaf">ک</string>
+    <string name="Gaf">گ</string>
+    <string name="Lam">ل</string>
+    <string name="Mim">م</string>
+    <string name="Nun">ن</string>
+    <string name="NunGunnah">ں</string>
+    <string name="Vau">و</string>
+    <string name="Choti_He">ہ</string>
+    <string name="Do_Chasmi_He">ھ</string>
+    <string name="Hamzah">ء</string>
+    <string name="Choi_Ye">ی</string>
+    <string name="Bari_Ye">ے</string>
 
     <!--aspirated letters-->
 
-    <string name="بھ‬">Bhe</string>
-    <string name="پھ">Phe</string>
-    <string name="تھ">The_One</string>
-    <string name="ٹھ‬">The_Two</string>
-    <string name="جھ‬">Jhe</string>
-    <string name="چھ‬">Chhe</string>
-    <string name="دھ">Dhal_Three</string>
-    <string name="ڈھ‬">Dhal_Four</string>
-    <string name="رھ‬">Rhe_One</string>
-    <string name="کھ‬">Khe</string>
-    <string name="گھ‬">Ghe</string>
-    <string name="ڑھ‬">Rhe_Two</string>
+    <string name="Bhe">بھ‬</string>
+    <string name="Phe">پھ</string>
+    <string name="The_One">تھ</string>
+    <string name="The_Two">ٹھ‬</string>
+    <string name="Jhe">جھ</string>
+    <string name="Chee">چھ</string>
+    <string name="Dhal_Three">دھ</string>
+    <string name="Dhal_Four">ڈھ‬</string>
+    <string name="Rhe_One">رھ</string>
+    <string name="Khe_aspiratedLetter">کھ‬</string>
+    <string name="Ghe">گھ</string>
+    <string name="Rhe_Two">ڑھ</string>
     <!--&lt;!&ndash;<string name="ڑھ‬">Re</string>&ndash;&gt; leave this out for now as its casing confusion-->
-    <string name="لھ‬">Ihe</string>
-    <string name="مھ‬">Mhe</string>
-    <string name="نھ‬">Nhe</string>
+    <string name="The">لھ‬</string>
+    <string name="Mhe">مھ</string>
+    <string name="Nhe">نھ‬</string>
 
     <!--numbers-->
-    
+
     <integer name="Sifar">۰</integer>
     <integer name="Ek">۱</integer>
     <integer name="Do">۲</integer>
@@ -115,7 +115,5 @@
     <integer name="Lakh">۱۰۰۰۰۰</integer>
     <integer name="Das_Lakh">۱۰۰۰۰۰۰</integer>
     <integer name="Crore">۱۰۰۰۰۰۰۰</integer>
-    
-
 
 </resources>
